@@ -188,7 +188,6 @@ Open **`data/drift_report.html`** in your browser to see the compliance dashboar
 | 🧾 **Policy-as-Code (YAML)**              | Convert Excel RBAC to version-controlled YAML | DevSecOps-ready governance                |
 | 📈 **SIEM / GRC Integration**             | Export logs to Splunk, Conformio              | Unified compliance dashboard              |
 
----
 
 ## 🎯 Summary for Hiring Managers
 
@@ -200,11 +199,8 @@ This project demonstrates:
 * Automation of IAM governance
 * Continuous compliance validation
 * Evidence-based reporting for ISO/NIS2
-
 ---
 
-Would you like me to:
 
-* 🧱 **Add badges and visual branding** (e.g., build status, license, Python version, shields.io)?
-* 🎨 **Reformat it for GitHub Pages or portfolio presentation** (modern dark theme + icons)?
-  I can generate that styled Markdown or HTML version next.
+
+---
